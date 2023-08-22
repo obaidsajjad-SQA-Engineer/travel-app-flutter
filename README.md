@@ -1,16 +1,36 @@
-# travel_app
+<h1 align="center" id="title">Travel app flutter UI</h1>
 
-A new Flutter project.
+<p align="center"><img src="https://socialify.git.ci/osmughal01/travel-app-flutter/image?description=1&amp;descriptionEditable=Travelling%20app%20flutter%20Beautiful%20UI.&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Charlie%20Brown&amp;pulls=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-## Getting Started
+<p id="description">Flutter clean code with separate folders of models widgets screens assets etc.</p>
 
-This project is a starting point for a Flutter application.
+<h2>Project Screenshots:</h2>
 
-A few resources to get you started if this is your first Flutter project:
+<h2>🛠️ Installation Steps:</h2>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p>1. In you IDE terminal run</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+flutter pub get
+```
+
+<p>2. Execute</p>
+
+```
+run without debuging
+```
+
+<p>3. Final</p>
+
+```
+Enjoy the app
+```
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Flutter
+*   dart
