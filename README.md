@@ -5,7 +5,6 @@
 <p id="description">Flutter clean code with separate folders of models widgets screens assets etc.</p>
 
 <h2>Project Screenshots:</h2>
-![Screenshot_1692711587](https://github.com/osmughal01/travel-app-flutter/assets/100994047/cb78f746-ed12-47d8-b28e-72145b24806d)
 
 
 <h2>🛠️ Installation Steps:</h2>
